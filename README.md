@@ -1,6 +1,6 @@
 # Shrijya Patil Portfolio 👩🏽‍🚀
 
-Hi! I'm *Shrijya Patil, a student at **D.Y. Patil College of Engineering and Technology, Kolhapur*.  
+Hi! I'm Shrijya Patil, a student at *D.Y. Patil College of Engineering and Technology, Kolhapur*.  
 This is my personal portfolio built with *ReactJS*, showcasing my skills, projects, articles, and achievements.  
 
 ---
@@ -8,7 +8,8 @@ This is my personal portfolio built with *ReactJS*, showcasing my skills, projec
 ## 📸 Me
 
 <center>
-<img src="https://raw.githubusercontent.com/Shrijya/reactfolio/main/public/about.jpg" alt="Shrijya Patil" width="300"/>
+<img src="![Uploading image.png…]()
+" alt="Shrijya Patil" width="300"/>
 </center>
 
 ---
