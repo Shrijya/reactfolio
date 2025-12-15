@@ -8,8 +8,7 @@ This is my personal portfolio built with *ReactJS*, showcasing my skills, projec
 ## 📸 Me
 
 <center>
-<img src="![Uploading image.png…]()
-" alt="Shrijya Patil" width="300"/>
+<img src={INFO.main.logo} alt="logo" className="logo" width={width} />
 </center>
 
 ---
