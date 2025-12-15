@@ -7,9 +7,10 @@ This is my personal portfolio built with *ReactJS*, showcasing my skills, projec
 
 ## 📸 Me
 
-<center>
-<img src={INFO.main.logo} alt="logo" className="logo" width={width} />
-</center>
+<p align="center">
+  <img src="public/logo.png" alt="Reactfolio Logo" width="200"/>
+</p>
+
 
 ---
 
